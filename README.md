@@ -6,8 +6,7 @@
         AUTHER  : Ajay o s   
         LICENSE : Apache-2.0 
 
-#
-#
+
 # INSTALL
 
 # step 1
