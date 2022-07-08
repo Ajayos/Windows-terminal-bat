@@ -1,17 +1,17 @@
-@echo
-@echo
+@echo %ESC%[0m
+@echo %ESC%[0m
 @echo %ESC%[32m############################################ %ESC%[0m
 @echo %ESC%[32m#           %ESC%[31mPROJECT : windows_terminal.bat %ESC%[32m# %ESC%[0m
 @echo %ESC%[32m#           %ESC%[31mAUTHER  : Ajay o s             %ESC%[32m# %ESC%[0m
 @echo %ESC%[32m#           %ESC%[31mLICENSE : Apache-2.0           %ESC%[32m# %ESC%[0m
 @echo %ESC%[32m############################################ %ESC%[0m
-@echo
-@echo
-@echo
+@echo %ESC%[0m
+@echo %ESC%[0m
+@echo %ESC%[0m
 @echo %ESC%[32mWelcome to BlackSudo World%ESC%[0m
 @echo %ESC%[32mInstalling BlackSudo .......%ESC%[0m
-@echo
-@echo
+@echo %ESC%[0m
+@echo %ESC%[0m
 @cd %systemroot%\system32
 @echo %ESC%[32mInstalling clear %ESC%[0m
 @curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/clear.cmd -s -o clear.cmd
