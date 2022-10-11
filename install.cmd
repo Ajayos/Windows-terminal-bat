@@ -15,16 +15,16 @@ cls
 @echo %ESC%[0m
 @cd %systemroot%\system32
 @echo %ESC%[32mInstalling clear %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/clear.cmd -s -o clear.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/clear.cmd -s -o clear.cmd
 @echo %ESC%[32mInstalling ls %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/ls.cmd -s -o ls.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/ls.cmd -s -o ls.cmd
 @echo %ESC%[32mInstalling gedit  %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/gedit.cmd -s -o gedit.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/gedit.cmd -s -o gedit.cmd
 @echo %ESC%[32mInstalling mysql %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/mysql.cmd -s -o mysql.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/mysql.cmd -s -o mysql.cmd
 @echo %ESC%[32mInstalling mysql- %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/mysql-.cmd -s -o mysql-.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/mysql-.cmd -s -o mysql-.cmd
 @echo %ESC%[32mInstalling rm %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/rm.cmd -s -o rm.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/rm.cmd -s -o rm.cmd
 @echo %ESC%[32mInstalling ifconfig %ESC%[0m
-@curl https://raw.githubusercontent.com/B-SUDO-003/Windows-terminal.bat/main/cmd/ifconfig.cmd -s -o ifconfig.cmd
+@curl https://raw.githubusercontent.com/Keerthana-bot/Windows-terminal.bat/main/cmd/ifconfig.cmd -s -o ifconfig.cmd
